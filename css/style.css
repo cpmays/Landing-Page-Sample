@@ -78,12 +78,12 @@ body {
   color: #fff;
 }
 
-#section-c .box-2 {
+#section-d .img-box {
   background-image: url("../img/Pic4.jpeg");
   background-size: cover;
   background-position: center;
-  height: 20vh;
-  width: 50vw;
+  height: 30vh;
+  width: 100%;
 }
 
 div footer {
